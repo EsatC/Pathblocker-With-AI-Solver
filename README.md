@@ -57,7 +57,4 @@ java Test
 - `Solver.java`: Seçilen algoritmaya göre çözüm üretir
 - `PngSaver.java`: Her adımı PNG dosyası olarak kaydeder
 
-## Katkıda Bulunma
-
-Pull request’ler memnuniyetle karşılanır. Lütfen büyük değişiklikler için önce ne yapmak istediğinizi tartışmak adına bir issue açın.
 
