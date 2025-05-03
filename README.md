@@ -107,3 +107,12 @@ mvn javafx:run
   #   G    #   ^ = altitude (height increases with count)
   ##########
   ```
+
+![0025](https://github.com/user-attachments/assets/67a8ed67-8cd6-468f-a3b7-1379881a7015)
+![0002](https://github.com/user-attachments/assets/61fd5a69-0a16-4fad-b5fc-c96dfed28dce)
+![0001](https://github.com/user-attachments/assets/552cb565-a287-465d-823d-99aeedd0f459)
+![0026](https://github.com/user-attachments/assets/eb64da32-8849-438a-840e-b6d981148f6c)
+![0018](https://github.com/user-attachments/assets/08247e6f-539a-4b33-841f-dfcc2408674d)
+![0017](https://github.com/user-attachments/assets/e5b01d52-fff8-4dd3-a98a-6a8c2ef60ce1)
+![0002](https://github.com/user-attachments/assets/87a6015a-1e1f-44a0-b741-d8c352d34e31)
+![0001](https://github.com/user-attachments/assets/2e77373c-434c-48bd-a699-d27113a28082)
