@@ -23,8 +23,9 @@ The project comes with a tiny interactive game/visualiser where you control (or 
 
 | Flat grid (BFS)                                    | Altitude grid (A\*)                                        |
 | -------------------------------------------------- | ---------------------------------------------------------- |
-| ![Flat grid screenshot](docs/images/flat_grid.png) | ![Altitude grid screenshot](docs/images/altitude_grid.png) |
-![0001](https://github.com/user-attachments/assets/6a8b9b2f-720f-4313-9910-9e285cd2e571)
+| ![Flat grid screenshot](https://github.com/user-attachments/assets/6a8b9b2f-720f-4313-9910-9e285cd2e571) | ![Altitude grid screenshot](https://github.com/user-attachments/assets/1c9a2652-1eb8-4d5b-91c9-7cdc3e32ff6b) |
+![0001]
+![0001]
 
 ---
 
